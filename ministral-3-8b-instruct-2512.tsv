@@ -1,9 +1,2 @@
 TsvHttpData-1.0
-https://huggingface.co/mistralai/Ministral-3-8B-Instruct-2512/resolve/main/consolidated.safetensors	consolidated.safetensors
-https://huggingface.co/mistralai/Ministral-3-8B-Instruct-2512/resolve/main/config.json	config.json
-https://huggingface.co/mistralai/Ministral-3-8B-Instruct-2512/resolve/main/generation_config.json	generation_config.json
-https://huggingface.co/mistralai/Ministral-3-8B-Instruct-2512/resolve/main/params.json	params.json
-https://huggingface.co/mistralai/Ministral-3-8B-Instruct-2512/resolve/main/tokenizer.json	tokenizer.json
-https://huggingface.co/mistralai/Ministral-3-8B-Instruct-2512/resolve/main/tokenizer_config.json	tokenizer_config.json
-https://huggingface.co/mistralai/Ministral-3-8B-Instruct-2512/resolve/main/chat_template.jinja	chat_template.jinja
-https://huggingface.co/mistralai/Ministral-3-8B-Instruct-2512/resolve/main/model.safetensors.index.json	model.safetensors.index.json
+https://huggingface.co/mistralai/Ministral-3-8B-Instruct-2512/resolve/main/consolidated.safetensors	10420633176
